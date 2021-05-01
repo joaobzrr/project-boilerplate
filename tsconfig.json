@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "isolatedModules": true,
+        "sourceMap": true,
+        "jsx": "react",
+        "baseUrl": "./",
+        "paths": {
+            "$src/*":        ["src/*"],
+            "$components/*": ["src/components/*"],
+            "$hooks/*":      ["src/hooks/*"],
+            "$services/*":   ["src/services/*"],
+            "$contexts/*":   ["src/contexts/*"],
+            "$assets/*":     ["src/assets/*"]
+        }
+    }
+}
