@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "Project boilerplate",
     "main": "index.js",
-    "scripts": {},
     "author": "João Bezerra",
     "license": "MIT",
     "scripts": {

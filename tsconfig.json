@@ -17,6 +17,7 @@
             "$hooks/*":      ["src/hooks/*"],
             "$services/*":   ["src/services/*"],
             "$contexts/*":   ["src/contexts/*"],
+            "$types/*":      ["src/types/*"],
             "$assets/*":     ["src/assets/*"]
         }
     }
